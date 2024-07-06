@@ -1,0 +1,1 @@
+# Detect-pixelated-image-and-correct-it
